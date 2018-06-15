@@ -1,0 +1,25 @@
+<html>
+<head>
+	<title>谭海角</title>
+	<style type="text/css">
+	
+		.head{height:60px;width:1300px;margin-bottom:8px;float:left;background-color:purple;}
+		.nav{width:1300px;height:40px;padding-bottom:8px;margin-top:8px;margin-bottom:8px;float:left;background-color:gray;}
+		.left{width:300px;height:120px;float:left;margin-right:8px;background-color:black;}
+		.art{width:1300px;height:120px;}
+		.mid{width:700px;height:120px;float:left;background-color:green;}
+		.right{width:250px;height:120px;float:left;background-color:blue;margin-left:8px;}
+		.mes{heitht:40px;width:1300px;padding-bottom:8px;margin-bottom:8px;float:left;background-color:purple;margin-top:8px;}
+	</style>
+</head>
+<body>
+	<div class=head>头部</div>
+	<div class=nav>导航</div>
+	<div class=art>
+		<div class=left>左侧栏</div>
+		<div class=mid>中间</div>
+		<div class=right>右侧栏</div>
+	</div>
+	<div class=mes>滚动信息栏</div>
+</body>
+</html>
